@@ -4,4 +4,8 @@ target
 .idea
 *.iws
 *.iml
+<<<<<<< HEAD
 *.ipr
+=======
+*.ipr
+>>>>>>> 334503cad79f0b9f719ee83c207fc2dce1402c40
