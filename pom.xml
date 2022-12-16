@@ -53,7 +53,7 @@
         <java.version>11</java.version>
         <cglib.version>3.2.12</cglib.version>
         <aspectj.version>1.9.4</aspectj.version>
-        <spring.version>5.1.7.RELEASE</spring.version>
+        <spring.version>5.2.20.RELEASE</spring.version>
         <hibernate.version>5.4.3.Final</hibernate.version>
         <ehcache.version>3.6.3</ehcache.version>
         <log4j2.version>2.11.2</log4j2.version>
